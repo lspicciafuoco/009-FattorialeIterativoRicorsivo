@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=009-FattorialeIterativoRicorsivo
+PROJECTNAME=ese009
 
 # Active Configuration
 DEFAULTCONF=Debug
